@@ -1,0 +1,1 @@
+let comida = new comida();
